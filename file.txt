@@ -1,5 +1,3 @@
 file for utf-8 
 
-edris
-
-edris
+new line add
