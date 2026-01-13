@@ -1,3 +1,3 @@
 print("hello world 🌎")
 input()
-okay 
+zip
